@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     IMAGE_REPO_NAME: "mypage"
-    _PROJECT_NAME: "admin-mypage"
+    _PROJECT_NAME: "admin14-mypage"
 
 phases:
   install:
